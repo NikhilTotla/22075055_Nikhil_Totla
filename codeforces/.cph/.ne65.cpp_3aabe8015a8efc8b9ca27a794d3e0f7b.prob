@@ -1,0 +1,1 @@
+{"name":"Local: ne65","url":"/home/nikawesome11/Desktop/codeforces/ne65.cpp","tests":[{"id":1680511382161,"input":"4\n10 1\n2 1 4 5 2 4 5 5 1 2\n5 2\n3 2 1 2 2\n2 2\n1 1\n2 2\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/nikawesome11/Desktop/codeforces/ne65.cpp","group":"local","local":true}
